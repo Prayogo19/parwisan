@@ -1,16 +1,20 @@
 # parwisan
-> Aplikasi booking bus pariwisata di kota karawang.
+> Web-Based Apps for Tourist Bus Booking in Karawang.
 ***
-Aplikasi ini dibangun menggunakan `HTML`,`CSS`,`PHP Native`, `Javascript`.
+This Web App Build in `HTML`,`CSS`,`PHP Native`, `Javascript`.
 
-Daftar Halaman
+Page List :
 1. Admin
   * Dashboard
-  * CRUD Daftar Bus
-  * Konfirmasi Booking
-  * Checking Pelunasan
+  * CRUD Bus List
+  * Booking Confirm
+  * Repayment Check
 2. User
-  * Profil
-  * Riwayat Booking
-  * Form Booking
-  * Daftar Bus
+  * Profile
+  * Booking History
+  * Booking Form
+  * Bus List
+***
+
+Note:
+> This application is being improved by adding some of the latest features and technology as well as a better business flow
